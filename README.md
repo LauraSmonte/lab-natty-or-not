@@ -52,5 +52,13 @@ Essa etapa garantiu clareza, coesão e qualidade textual ao projeto.
 *Valorização estética e visual do projeto
 *A imagem contribui para o storytelling visual e apresentação profissional.
 
+## Resultado final do projeto
+
+TABELA EXCEL
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/027c5c93-bb12-4b6c-b693-18c3c87f8089" />
+
+MAPA MENTAL DESENVOLVIDO 
+<img width="3840" height="4168" alt="_p_Desempenho do Jogador Cristiano Ronaldo__p_" src="https://github.com/user-attachments/assets/d6379adf-6947-4995-a125-df4380fbd6d3" />
+
 ```
 

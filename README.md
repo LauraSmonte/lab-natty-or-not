@@ -1,51 +1,56 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+## Um Homem ou uma Máquina?
+Os dados por trás da carreira de Cristiano Ronaldo
 
-## 🚀 Introdução
+![a0df7b7b796b19de68b12d31f9294c9d](https://github.com/user-attachments/assets/35f5b015-4afb-493a-903a-6f6453da44ca)
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+## 🚀 Introdução
+Desempenho do Jogador Cristiano Ronaldo + Uso de IA para Mapa Mental
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+## Contexto do Projeto
+Este projeto tem como objetivo realizar uma análise de dados esportivos focada no desempenho do atleta Cristiano Ronaldo, utilizando dados estatísticos consolidados para gerar insights analíticos, e posteriormente organizar essas informações em formato de tabela, que pode ser convertida em mapa mental com apoio de Inteligência Artificial.
+Observação metodológica:
+Os dados utilizados são históricos, públicos e aproximados, sendo comuns em projetos educacionais, com finalidade analítica e demonstrativa.
 
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Tecnologias utilizadas: Excel, Google docs e Inteligência Artificial (ChatGPT, InstantMind AI, leonard AI.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+## (ChatGPT)Construção da Análise com IA 
+A análise inicial foi construída com apoio do ChatGPT, que auxiliou na: 
+*Estruturação dos dados estatísticos da carreira do atleta
+*Organização dos indicadores de desempenho (KPIs).
+*Criação de insights analíticos
+*Definição de métricas comparativas (clubes, idade, seleção).
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+## (Microsoft Excel) Organização dos Dados em Tabela Excel, permitindo: 
+*Estruturação dos dados em linhas e colunas.
+*Padronização das métricas
+*Facilidade de leitura e manipulação
+*Preparação dos dados para visualização e IA. 
+*O Excel foi utilizado como base central de dados do projeto.
+
+## (Google Docs) Refinamento e Documentação Textual Após a estruturação tabular, o conteúdo foi revisado e aprimorado no Google Docs, onde:
+A linguagem foi refinada para um formato acadêmico/profissionalOs insights foram detalhados
+A narrativa do projeto foi organizada
+O texto foi adaptado para documentação técnica
+Essa etapa garantiu clareza, coesão e qualidade textual ao projeto.
+
+## (InstantMind) Criação do Mapa Mental com IA A partir da tabela estruturada, os dados foram importados para o InstantMind AI, que foi utilizado para:
+*Converter tabelas em mapas mentais
+*Organizar visualmente categorias e subcategorias
+*Facilitar a compreensão dos dados
+*Representar os insights de forma visual e hierárquica
+*O mapa mental serviu como ferramenta de visualização analítica.
+
+## (Leonardo AI)Geração da Imagem do Projeto A imagem de capa do projeto foi criada com o auxílio da Leonardo AI, permitindo:
+*Geração de uma imagem conceitual alinhada ao tema
+*Representação visual da ideia “Homem x Máquina”
+*Valorização estética e visual do projeto
+*A imagem contribui para o storytelling visual e apresentação profissional.
+
 ```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
